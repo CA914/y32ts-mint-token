@@ -1,0 +1,8 @@
+{
+    "name":"y32ts mint token",
+    "symbol" : "Y32TM",
+    "external_url": "https://y32ts.com/",
+    "description" :"This token is to mint y32ts NFT at a discounted price",
+    "image" : "https://raw.githubusercontent.com/CA914/y32ts-mint-token/main/logo.png",
+    "collection" : {"name": "y32ts mint token", "family": "y32ts"}
+  }
